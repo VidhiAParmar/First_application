@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">First_application</string>
+    <string name="bmi_checker">BMI Checker</string>
+    <string name="enter_height_in_meter">Enter Height in meter</string>
+    <string name="enter_weight_in_kg">Enter Weight in kg</string>
+    <string name="bmi">BMI</string>
+</resources>
